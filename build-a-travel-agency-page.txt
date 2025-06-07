@@ -1,0 +1,38 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Travel Agency Page</title>
+    <meta name="description" content="This page is about a country you can travel to and top places to visit there.">
+  </head>
+  <body>
+    <h1>Time to Barcelona</h1>
+    <p>Barcelona is a great city located in Spain that you all should visit at least once in a lifetime. You can enjoy of multiple activities, continue below to get more info about them.</p>
+    <h2>Packages</h2>
+    <p>We offer various packages to explore the most iconic sites in this wonderful city, such as the <strong>Sagrada Familia, Camp Nou, Arc de Triomphe Barcelona, and more.</strong></p>
+    <ul>
+      <li><a href="https://www.freecodecamp.org/learn"target="_blank">Group Travels</a></li>
+      <li><a href="https://www.freecodecamp.org/learn"target="_blank">Private Tours</a></li>
+    </ul>
+    <h2>Top Itineraries</h2>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://d2prydcqrq5962.cloudfront.net/image/journal/article?img_id=1147545&amp;t=1703492816478"alt="Catedral Sagrada Familia"></a>
+      <figcaption>The Sagrada Familia</figcaption>
+    </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://t4.ftcdn.net/jpg/05/27/29/95/360_F_527299569_vYLOucMAr1oz52CRaQbZNC3tIjtiEwaY.jpg" alt="Camp Nou Stadium"></a>
+      <figcaption>Camp Nou, FC Barcelona's stadium</figcaption>
+    </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank"> <img src="https://images.mnstatic.com/fe/ac/feacc0499f80f71660e714de2e968ee7.jpg?quality=75&amp;format=png&amp;fit=crop&amp;width=980&amp;height=880&amp;aspect_ratio=980%3A880"alt="Arco de Triunfo en Barcelona"></a>
+     <figcaption>The Arc de Triumphe Barcelona</figcaption>
+    </figure>
+  </body>
+</html>
+
+
+
+** end of index.html **
+
